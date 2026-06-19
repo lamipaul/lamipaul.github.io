@@ -13,6 +13,7 @@ I am a post-doctoral researcher interested in the communication of non-human ani
 
 
 ## Academic Experience
+
 | Date     | Position      |
 |----------|:-------------|
 |2026-2028 | Marie Skoldova Curie post-doc fellow, Acoustic Research Institute, Austrian Academy of Sciences |
