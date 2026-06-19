@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Paul Best"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in computational bioacoustics for the comparative study of communication systems"
+  bio              : "Researcher in animal communication,\n using computational tools"
   location         : "Marseille"
-  employer         : "Institute for Language Communication and the Brain"
+  employer         : "Institute for Language \n Communication and the Brain"
   uri              : # URL
   email            : "paul.best@univ-amu.fr" 
 
@@ -243,7 +243,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -261,7 +261,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -279,7 +279,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
