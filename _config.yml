@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Paul Best"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in animal communication,\n using computational tools"
+  bio              : "Researcher in animal communication,\n computational bioacoustics"
   location         : "Marseille"
-  employer         : "Institute for Language \n Communication and the Brain"
+  employer         : "Aix-Marseille Université"
   uri              : # URL
   email            : "paul.best@univ-amu.fr" 
 
@@ -222,13 +222,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
