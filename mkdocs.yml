@@ -1,0 +1,99 @@
+site_name: Paul Best
+site_description: Research in animal communication and computational bioacoustics
+site_url: https://lamipaul.github.io/
+repo_url: https://github.com/lamipaul/lamipaul.github.io
+
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+strict: true
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  favicon: assets/images/favicon.svg
+  logo: assets/images/profile.png
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - About: index.md
+  - Publications: publications/index.md
+  - Talks: talks/index.md
+  - Data and code: dataandcode/index.md
+
+plugins:
+  - redirects:
+      redirect_maps:
+        about.md: index.md
+        publications/ae.md: publications/index.md
+        publications/bombyx.md: publications/index.md
+        publications/cacha.md: publications/index.md
+        publications/clustering.md: publications/index.md
+        publications/detection.md: publications/index.md
+        publications/domain.md: publications/index.md
+        publications/elec.md: publications/index.md
+        publications/f0.md: publications/index.md
+        publications/fin.md: publications/index.md
+        publications/gibbons.md: publications/index.md
+        publications/globi.md: publications/index.md
+        publications/marmo.md: publications/index.md
+        publications/multi.md: publications/index.md
+        publications/orcas.md: publications/index.md
+        publications/shortnote.md: publications/index.md
+        publications/these.md: publications/index.md
+        talks/dclde.md: talks/index.md
+        talks/eslp.md: talks/index.md
+        talks/fa.md: talks/index.md
+        talks/ibac23.md: talks/index.md
+        talks/ibac25.md: talks/index.md
+        talks/ijcnn.md: talks/index.md
+        talks/son.md: talks/index.md
+        talks/vihar19.md: talks/index.md
+        talks/vihar21.md: talks/index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/navigation.js
+  - assets/javascripts/citations.js
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:paul.best@univ-amu.fr
+      name: Email Paul Best
+    - icon: simple/googlescholar
+      link: https://scholar.google.com/citations?user=2NFE_I4AAAAJ
+      name: Google Scholar
+    - icon: simple/orcid
+      link: https://orcid.org/0000-0003-4996-0726
+      name: ORCID
+
+copyright: Copyright &copy; Paul Best
