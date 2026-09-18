@@ -1,23 +1,17 @@
-# Ignore the contents of the _site directory and other cache directories
-_site/
-.sass-cache/
+# MkDocs build output
+site/
 
-# Ignore the directory for local files during development
-local/
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
 
-# Ignore the Gemfile that is generated
-Gemfile.lock
+# Tool caches
+.cache/
+.pytest_cache/
 
-# Ignore files created by npm
-node_modules
-package-lock.json
-
-# Ignore the vendor file at root level and bundle for alternative installation
-/vendor/
-.bundle/
-
-# Ignore folders related to IDEs
+# Editors and operating systems
 .vscode/
-
-# Ignore files created by MacOS
 .DS_Store
+Thumbs.db
