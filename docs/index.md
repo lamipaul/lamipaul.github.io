@@ -11,7 +11,7 @@ hide:
     <p class="profile-role">Researcher in animal communication and computational bioacoustics</p>
     <p>Marseille · Aix-Marseille Université</p>
     <p class="profile-links">
-      <a href="mailto:paul.best@univ-amu.fr">Email</a>
+      <a href="mailto:paul.best@oeaw.ac.at">Email</a>
       <a href="https://scholar.google.com/citations?user=2NFE_I4AAAAJ">Google Scholar</a>
       <a href="https://orcid.org/0000-0003-4996-0726">ORCID</a>
     </p>
