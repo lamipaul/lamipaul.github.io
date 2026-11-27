@@ -11,7 +11,7 @@ hide:
   <h2>Paul Best</h2>
   <p>Researcher in animal communication and computational bioacoustics</p>
   <ul>
-    <li><a href="mailto:paul.best@oeaw.ac.at">Email</a></li>
+    <li><a href="mailto:paul.best@univ-amu.fr">Email</a></li>
     <li><a href="https://orcid.org/0000-0003-4996-0726">ORCID</a></li>
     <li><a href="https://scholar.google.com/citations?user=2NFE_I4AAAAJ">Google Scholar</a></li>
   </ul>
@@ -70,6 +70,8 @@ International Joint Conference on Neural Networks · Glasgow, Scotland · 19 Jul
 ### [Large-scale unsupervised clustering of orca vocalizations](https://vihar-2019.vihar.org/)
 
 Vocal Interactivity in-and-between Humans, Animals and Robots · London, England · 30 August 2019
+
+## 2018
 
 ### [Musical Gesture Recognition Using Machine Learning and Audio Descriptors](https://www.univ-larochelle.fr/evenements/conference-cbmi-2018/)
 

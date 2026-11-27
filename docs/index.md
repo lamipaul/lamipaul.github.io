@@ -9,9 +9,9 @@ hide:
   <div>
     <h1>Paul Best</h1>
     <p class="profile-role">Researcher in animal communication and computational bioacoustics</p>
-    <p>Marie Skłodowska Curie fellow at the Acoustic Research Institute - Austrian Academy of Sciences</p>
+    <p>Marie Skłodowska-Curie fellow at the Acoustic Research Institute - Austrian Academy of Sciences</p>
     <p class="profile-links">
-      <a href="mailto:paul.best@oeaw.ac.at">Email</a>
+      <a href="mailto:paul.best@univ-amu.fr">Email</a>
       <a href="https://scholar.google.com/citations?user=2NFE_I4AAAAJ">Google Scholar</a>
       <a href="https://orcid.org/0000-0003-4996-0726">ORCID</a>
     </p>
@@ -24,6 +24,8 @@ I am a post-doctoral researcher interested in the acoustic communication of non-
 
 <div class="experience-table" markdown>
 
+| Year | Position |
+| --- | --- |
 | 2026–2028 | Marie Skłodowska-Curie post-doctoral fellow, Acoustic Research Institute, Austrian Academy of Sciences |
 | 2026 | Invited researcher, Sea Mammal Research Unit, University of St Andrews |
 | 2024–2026 | Institute of Language, Communication and the Brain post-doctoral fellow, Centre de Recherche en Psychologie et Neurosciences, Aix-Marseille Université |
