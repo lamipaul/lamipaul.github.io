@@ -11,7 +11,7 @@ hide:
   <h2>Paul Best</h2>
   <p>Researcher in animal communication and computational bioacoustics</p>
   <ul>
-    <li><a href="mailto:paul.best@univ-amu.fr">Email</a></li>
+    <li><a href="mailto:paul.best@oeaw.ac.at">Email</a></li>
     <li><a href="https://orcid.org/0000-0003-4996-0726">ORCID</a></li>
     <li><a href="https://scholar.google.com/citations?user=2NFE_I4AAAAJ">Google Scholar</a></li>
   </ul>
