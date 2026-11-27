@@ -9,7 +9,7 @@ hide:
   <div>
     <h1>Paul Best</h1>
     <p class="profile-role">Researcher in animal communication and computational bioacoustics</p>
-    <p>Marseille · Aix-Marseille Université</p>
+    <p>Marie Skłodowska Curie fellow at the Acoustic Research Institute - Austrian Academy of Sciences</p>
     <p class="profile-links">
       <a href="mailto:paul.best@univ-amu.fr">Email</a>
       <a href="https://scholar.google.com/citations?user=2NFE_I4AAAAJ">Google Scholar</a>
@@ -18,14 +18,12 @@ hide:
   </div>
 </div>
 
-I am a post-doctoral researcher interested in the communication of non-human animals. I make use of computational tools, such as deep neural networks, to generate ethological data in ecological settings. More specifically, this takes form as the automatic processing of passive acoustic recordings to reach high-level representations of vocal sequences (e.g. call types, fundamental frequency contour, individual identity, or emitter localisation). This enables us to infer links between behavioural, social, or ecological contexts with structures in vocal production.
+I am a post-doctoral researcher interested in the acoustic communication of non-human animals. I make use of computational tools, such as deep neural networks, to generate ethological data in ecological settings. More specifically, this takes form as the automatic processing of passive acoustic recordings to reach high-level representations of vocal sequences (e.g. call types, fundamental frequency contour, individual identity, or emitter localisation). This allows us to infer links between behavioural, social, or ecological contexts with structures in vocal production.
 
 ## Academic experience
 
 <div class="experience-table" markdown>
 
-| Date | Position |
-| --- | --- |
 | 2026–2028 | Marie Skłodowska-Curie post-doctoral fellow, Acoustic Research Institute, Austrian Academy of Sciences |
 | 2026 | Invited researcher, Sea Mammal Research Unit, University of St Andrews |
 | 2024–2026 | Institute of Language, Communication and the Brain post-doctoral fellow, Centre de Recherche en Psychologie et Neurosciences, Aix-Marseille Université |

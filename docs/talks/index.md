@@ -71,5 +71,9 @@ International Joint Conference on Neural Networks · Glasgow, Scotland · 19 Jul
 
 Vocal Interactivity in-and-between Humans, Animals and Robots · London, England · 30 August 2019
 
+### [Musical Gesture Recognition Using Machine Learning and Audio Descriptors](https://www.univ-larochelle.fr/evenements/conference-cbmi-2018/)
+
+Content-based Multimedia indexing · La Rochelle, France · 5 September 2018
+
 </div>
 </div>
